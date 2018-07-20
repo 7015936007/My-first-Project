@@ -1,0 +1,9 @@
+1
+
+
+Welcome to Ansible Tower
+
+We need to create one playbook
+
+it will copy files from one system to another
+
