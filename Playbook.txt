@@ -7,3 +7,12 @@ We need to create one playbook
 
 it will copy files from one system to another
 
+Now we need to put some data in this file
+
+from our jump server
+
+location will be /var/tmp
+
+
+Thank You..!
+
