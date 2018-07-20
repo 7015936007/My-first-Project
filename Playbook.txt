@@ -13,6 +13,10 @@ from our jump server
 
 location will be /var/tmp
 
+needto install cylance package
+
+we are going to install flexnet agent on linux servers.
+
 
 Thank You..!
 
